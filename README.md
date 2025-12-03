@@ -4,6 +4,9 @@
 **Contact:** a.h.pisani.research@gmail.com  
 **Date:** December 2025  
 **Status:** Submitted for Review
+[![DOI](https://zenodo.org/badge/1108883418.svg)](https://doi.org/10.5281/zenodo.17797151)
+
+
 
 ## Abstract
 
